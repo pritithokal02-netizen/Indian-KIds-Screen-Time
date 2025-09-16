@@ -26,8 +26,9 @@ The goal is to understand patterns, trends, and potential impacts of excessive s
 ---
 
 ## 📊 Dashboard Preview
-> *(Attach a screenshot of your dashboard here)*  
-> ![Dashboard Preview](dashboard-preview.png)
+<img width="1920" height="1080" alt="dashboard preview" src="https://github.com/user-attachments/assets/6d3f29d0-ae47-442b-8ecf-6d0bf8957929" />
+
+
 
 ---
 
@@ -48,3 +49,4 @@ The goal is to understand patterns, trends, and potential impacts of excessive s
 ## 🤝 About the Author
 **Priti Narendra Dandekar**  
 🎓 Pursuing Data Analytics and Data Science at IT Vedant  
+
