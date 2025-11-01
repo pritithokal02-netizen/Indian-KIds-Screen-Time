@@ -40,7 +40,7 @@ The goal is to understand patterns, trends, and potential impacts of excessive s
 ---
 
 ## 📌 How to Use
-1. Download the `.xlsx` file from this repository  
+1. Download the `new project indian kids screen time.xlsx` file from this repository  
 2. Open it in Excel (enable macros if prompted)  
 3. Use the filters/slicers to explore various data segments
 
@@ -49,4 +49,5 @@ The goal is to understand patterns, trends, and potential impacts of excessive s
 ## 🤝 About the Author
 **Priti Narendra Dandekar**  
 🎓 Pursuing Data Analytics and Data Science at IT Vedant  
+
 
